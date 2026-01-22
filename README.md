@@ -44,7 +44,7 @@ It also serves as a practical implementation of **LangChain + LangGraph**.
 - Pandas  
 
 ## Project Structure
-
+```
 Agentic_Greenhouse_AI/
 │
 ├── app.py
@@ -56,7 +56,7 @@ Agentic_Greenhouse_AI/
 │   ├── graph.py
 │   ├── state.py
 │   └── tools.py
-
+```
 ## How to Run Locally
 
 1. Install dependencies:
