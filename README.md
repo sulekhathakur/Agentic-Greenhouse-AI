@@ -44,7 +44,7 @@ It also serves as a practical implementation of **LangChain + LangGraph**.
 Agentic_Greenhouse_AI/
 │
 ├── app.py
-├── Greenhouse.csv
+├── greenhouse.csv
 ├── requirements.txt
 │
 ├── agent/
