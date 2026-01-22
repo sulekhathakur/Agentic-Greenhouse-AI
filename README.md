@@ -19,7 +19,8 @@ The focus is on **agentic reasoning**, not UI-heavy visualization.
 
 ## Why This Project
 
-Climate datasets are complex and difficult to interpret at scale.  
+Climate datasets are complex and difficult to interpret at scale.
+The system is intentionally designed as a **goal-driven agent pipeline**, not a prompt-response application.
 This project demonstrates how **Agentic AI architectures** can support:
 
 - Environmental data analysis  
