@@ -2,6 +2,9 @@
 
 This project is a **research-oriented Agentic AI system** designed to analyze greenhouse gas emissions data and generate structured, data-driven insights.
 
+🔗 Live Application:
+👉 https://agentic-greenhouse-ai.streamlit.app/
+
 Unlike traditional dashboards or chatbots, this system behaves as an **autonomous AI agent** — it understands a goal, plans analytical steps, performs analysis, and delivers insights using reasoning-based workflows.
 
 ## Project Overview
