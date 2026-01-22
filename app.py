@@ -30,7 +30,7 @@ def clean_llm_output(text: str) -> str:
 # --------------------------------------------------
 @st.cache_data
 def load_data():
-    return pd.read_csv("Greenhouse.csv")
+    return pd.read_csv("greenhouse.csv")
 
 df = load_data()
 
